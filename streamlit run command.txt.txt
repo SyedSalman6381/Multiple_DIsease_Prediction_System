@@ -1,0 +1,1 @@
+streamlit run "C:\Users\moham\OneDrive\Desktop\Multiple Disease Diagnostic system\mulii disease pred.py"
